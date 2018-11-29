@@ -15,7 +15,7 @@ change the value
 
 this is failing as, it it is not running on Ec2 instance (during the sending message its failing otherwise its working fine)
 
-environment variable nees to be given
+environment variable needs to be given
 JIRA_BASE_URL
 QUEUE_URL
 
